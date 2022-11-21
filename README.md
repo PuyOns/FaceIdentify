@@ -8,5 +8,8 @@
 #需要opencv3.4和qt5、vs环境
 
 
-FaceLogin/FaceLogin/model/
-需要放入模块
+#此目录下“FaceLogin/FaceLogin/model/”添加三个模块,名字在下面,
+#下载地址:“git@github.com:seetaface/SeetaFaceEngine.git”找到这三个模块
+seeta_fa_v1.1.bin
+seeta_fd_frontal_v1.0.bin
+seeta_fr_v1.0.bin
