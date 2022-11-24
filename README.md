@@ -5,7 +5,7 @@
 
 #git@github.com:seetaface/SeetaFaceEngine.git
 #人脸识别和抽取特征点、对比算法使用上面的开源码生成自己的库调用
-#需要opencv3.4和qt5、vs环境
+#需要windows下的opencv3.4和qt5、vs环境
 
 
 #此目录下“FaceLogin/FaceLogin/model/”添加三个模块,名字在下面,
